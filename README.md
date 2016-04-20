@@ -1,2 +1,2 @@
 # ShiftHandover
-Detection algorithm for taxi shift handover. optics
+Detection algorithm for taxi shift handover.
